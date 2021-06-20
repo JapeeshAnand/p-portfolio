@@ -4,6 +4,7 @@
   "description": "\"# p-portfolio\"",
   "main": "script.js",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1",
     "mongoose": "^5.12.14"
   },
