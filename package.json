@@ -1,0 +1,25 @@
+{
+  "name": "personalportfolio",
+  "version": "1.0.0",
+  "description": "\"# p-portfolio\"",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JapeeshAnand/p-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JapeeshAnand/p-portfolio/issues"
+  },
+  "homepage": "https://github.com/JapeeshAnand/p-portfolio#readme"
+}
